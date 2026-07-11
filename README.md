@@ -1,13 +1,18 @@
-## Hi there 👋
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hello%20World,%20I'm%20Yash%20Gupta&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hi%20there,%20I'm%20Yash%20Gupta%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%C2%B7%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Building+ML+pipelines+%26+AI-powered+apps+%F0%9F%A4%96;Currently+%40+Travlmate+%E2%9C%88%EF%B8%8F;Always+curious.+Always+shipping.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+real+business+decisions;Building+ML+pipelines+%26+GenAI-powered+apps;Currently+building+at+Travlmate+%E2%9C%88%EF%B8%8F;Oracle+Certified+%7C+GenAI+%2B+Data+Science;Always+curious.+Always+shipping.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Travlmate-Visit_Site-38BDF8?style=for-the-badge&logo=airplane&logoColor=white)](https://www.travlmate.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gupta-115728294)
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgupta.fdr@gmail.com)
 
 </div>
 
@@ -15,24 +20,40 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ### 🚀 About Me
 
-I'm a **Computer Science undergrad (B.Tech, 3rd Year)** at **Gurukul Kangri (Deemed to be University), Haridwar**, obsessed with turning messy, real-world data into products that actually solve problems.
+I'm a **Computer Science undergrad (B.Tech, 3rd Year)** at **Gurukul Kangri (Deemed to be University), Haridwar** — I like taking messy, real-world data and turning it into products people actually use.
 
-- 🔭 Currently working as a **Data Science / Full-Stack contributor at [Travlmate](#)**
-- 🧠 Learning: Agentic AI, RAG architectures, LLM fine-tuning & GenAI system design
-- 🛠️ Building end-to-end: **FastAPI + React** apps, **Streamlit** ML dashboards, and multi-agent AI pipelines
-- 🏆 Oracle Certified Professional — **Generative AI** & **Data Science**
-- 📈 Achieved **92%+ model accuracy**, **85–90% workflow automation**, and a **Star Performer** award across internships
-- 💬 Ask me about: **Machine Learning, RAG/LLMs, Power BI/Tableau, FastAPI, React, and building portfolio-grade projects**
-- ⚡ Fun fact: I open up every "black box" I find — from PC cabinets as a kid to LLM pipelines today
+```python
+class YashGupta:
+    def __init__(self):
+        self.role      = "Data Scientist | ML Engineer | Full-Stack Dev"
+        self.current   = "Building @ Travlmate (travlmate.ai)"
+        self.learning  = ["Agentic AI", "RAG pipelines", "LLM fine-tuning"]
+        self.certified = ["Oracle GenAI Professional", "Oracle Data Science Professional"]
+
+    def say_hi(self):
+        return "Let's build something impactful 🤝"
+```
+
+- 🔭 Currently building at **[Travlmate](https://www.travlmate.ai)** — working across data & full-stack features
+- 🧠 Deep-diving into **Agentic AI, RAG architectures**, and **LLM fine-tuning**
+- 🛠️ End-to-end builder: **FastAPI + React** apps, **Streamlit** ML dashboards, **multi-agent AI pipelines**, and **MLOps** tracking with MLflow
+- 🏆 **Oracle Certified Professional** — Generative AI & Data Science
+- 📈 Shipped models & platforms with **92%+ accuracy**, **85–90% workflow automation**, and a **Star Performer** award
+- 💬 Ask me about: **ML/MLOps, RAG & LLMs, Power BI/Tableau, FastAPI, React**
+- ⚡ Fun fact: I open up every "black box" I find — from PC internals as a kid to LLM pipelines today
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/rajputvaibhav/rajputvaibhav/master/gif/coder.gif" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YashGupta2003&theme=dark&hide_border=true&layout=compact" width="100%"/>
 
 </td>
 </tr>
@@ -44,36 +65,25 @@ I'm a **Computer Science undergrad (B.Tech, 3rd Year)** at **Gurukul Kangri (Dee
 
 <div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,sqlite,js,html,css,fastapi,react,git,github,vscode,tensorflow,scikitlearn,oracle&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/><br/>
 
-**ML / Data Science**
-
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-016E4F?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Web & Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**BI, Cloud & Tools**
-
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-016E4F?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
@@ -83,77 +93,87 @@ I'm a **Computer Science undergrad (B.Tech, 3rd Year)** at **Gurukul Kangri (Dee
 
 <div align="center">
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=DataTalk-Enterprise&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YashGupta2003/DataTalk-Enterprise">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=DataTalk-Enterprise&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=AI-Food-Waste-Reduction&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YashGupta2003/climateai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=climateai&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=QuantumAd-Sales-Predictor&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YashGupta2003/medicore-pro">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=medicore-pro&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=Automated-Hospital-Management&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YashGupta2003/AI-Food-Waste-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=AI-Food-Waste-Platform&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/YashGupta2003/MLOPS-Experiments-with-MLFlow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=MLOPS-Experiments-with-MLFlow&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
 
-> 💡 *Note: replace the `repo=` names above with your actual GitHub repo names once you rename/create them — the pinned cards auto-render live stars/forks/language from your real repos.*
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🗣️ **[DataTalk Enterprise](https://github.com/YashGupta2003/DataTalk-Enterprise)** | Multi-agent BI platform — query business data in natural language & auto-generate insights | `LangChain` `FastAPI` `Streamlit` |
+| 🌍 **[ClimateAI](https://github.com/YashGupta2003/climateai)** | ML + blockchain + quantum-sim platform for carbon credits & climate analytics | `Scikit-learn` `Blockchain` `Streamlit` |
+| 🏥 **[MediCore Pro](https://github.com/YashGupta2003/medicore-pro)** | 24-module hospital management system with AI symptom checker & ML forecasting | `Python` `MySQL` `Groq LLM` |
+| 🍽️ **[AI Food Waste Platform](https://github.com/YashGupta2003/AI-Food-Waste-Platform)** | ML model predicting spoilage risk to cut food waste across supply chains | `Scikit-learn` `XGBoost` `Streamlit` |
+| 📊 **[MLOps with MLflow](https://github.com/YashGupta2003/MLOPS-Experiments-with-MLFlow)** | Experiment tracking & model versioning for classification pipelines | `MLflow` `Random Forest` `Python` |
+
+</div>
 
 <br/>
 
 ## 🎓 Certifications & Achievements
 
-- 🟠 **Oracle Certified Professional** — OCI Generative AI & OCI Data Science
-- 🟠 **Oracle Certified Foundations Associate** — OCI AI Foundations
-- 🟢 **NPTEL Elite (IIT Madras)** — The Joy of Computing using Python (83%)
-- 🔵 **Tata Forage** — GenAI Powered Data Analytics Job Simulation
-- 🔵 **IBM SkillsBuild** — RAG, Generative AI in Action, AI Fundamentals, Tableau
-- ⭐ **Star Performer** — Oasis Infobyte Data Science Internship
-- 🏅 **HiDevs Skillathon 2025** — Top 30, Prompt Engineering
-
-<br/>
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YashGupta2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGupta2003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashGupta2003&theme=tokyonight&hide_border=true" />
+| 🏅 Certification | Issued By |
+|---|---|
+| Oracle Cloud Infrastructure — **Generative AI Professional** | Oracle University |
+| Oracle Cloud Infrastructure — **Data Science Professional** | Oracle University |
+| Oracle Cloud Infrastructure — **AI Vector Search Professional** | Oracle University |
+| **The Joy of Computing using Python** — Elite, 83% | NPTEL / IIT Madras |
+| **GenAI Powered Data Analytics** Job Simulation | Tata (via Forage) |
+| **RAG · Generative AI in Action · AI Fundamentals** | IBM SkillsBuild |
+| ⭐ **Star Performer** — Data Science Internship | Oasis Infobyte |
+| 🏆 **Top 30 — Prompt Engineering**, Skillathon 2025 | HiDevs |
 
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gupta-115728294)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YashGupta2003&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGupta2003&layout=compact&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashGupta2003&theme=dark&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashGupta2003&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Travlmate](https://img.shields.io/badge/🌐_Travlmate-38BDF8?style=for-the-badge&logoColor=white)](https://www.travlmate.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gupta-115728294)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashgupta.fdr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashGupta2003)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashGupta2003)
+
+<br/>
+
+<i>⚡ Still running, still executing — one commit at a time.</i>
 
 </div>
 
-<div align="center">
-<i>⚡ Fun fact: Just one more line of code in this universe, still running and executing!</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-<!--
-**YashGupta2003/YashGupta2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
