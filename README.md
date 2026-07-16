@@ -49,11 +49,11 @@ class YashGupta:
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YashGupta2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashGupta2003&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=YashGupta2003&label=Profile%20Views&color=38BDF8&style=flat-square" />
 
 </td>
 </tr>
@@ -94,21 +94,21 @@ class YashGupta:
 <div align="center">
 
 <a href="https://github.com/YashGupta2003/DataTalk-Enterprise">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=DataTalk-Enterprise&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=DataTalk-Enterprise&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 <a href="https://github.com/YashGupta2003/climateai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=climateai&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=climateai&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/YashGupta2003/medicore-pro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=medicore-pro&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=medicore-pro&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 <a href="https://github.com/YashGupta2003/AI-Food-Waste-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=AI-Food-Waste-Platform&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=AI-Food-Waste-Platform&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/YashGupta2003/MLOPS-Experiments-with-MLFlow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=MLOPS-Experiments-with-MLFlow&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YashGupta2003&repo=MLOPS-Experiments-with-MLFlow&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" />
 </a>
 
 </div>
@@ -150,14 +150,16 @@ class YashGupta:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YashGupta2003&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGupta2003&layout=compact&theme=dark&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGupta2003&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashGupta2003&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashGupta2003&theme=dark&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashGupta2003&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff" width="95%"/>
 
 </div>
+
+> 💡 *Note: these stat cards are powered by free community APIs (Vercel/Heroku hosted). They can occasionally be slow to load or briefly rate-limited — if a card looks blank, just refresh the page after a minute; it's not an issue with your file.*
 
 <br/>
 
