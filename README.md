@@ -49,11 +49,11 @@ class YashGupta:
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/rajputvaibhav/rajputvaibhav/master/gif/coder.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YashGupta2003&theme=dark&hide_border=true&layout=compact" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YashGupta2003&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8" width="100%"/>
 
 </td>
 </tr>
